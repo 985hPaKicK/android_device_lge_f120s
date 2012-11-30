@@ -1,0 +1,79 @@
+# Executable files
+bin/ami304d
+bin/cnd
+bin/ks
+bin/mpdecision
+bin/netmgrd
+bin/qcks
+bin/qmiproxy
+bin/qmuxd
+bin/rild
+bin/rmt_storage
+bin/thermald
+bin/time_daemon
+
+# Audio
+lib/libacdbloader.so
+lib/libacdbmapper.so
+lib/libaudcal.so
+lib/libaudioalsa.so
+
+# Camera
+lib/libgemini.so
+lib/libidl.so
+lib/libmmipl.so
+lib/libmmjpeg.so
+lib/libmmjps.so
+lib/libmmmpo.so
+lib/libmmmpod.so
+lib/libmmstereo.so
+lib/liboemcamera.so
+lib/libDivxDrm.so
+lib/libOlaFaceDetector.so
+lib/lib_LG_fastaf_v2.0.so
+lib/libmmparser.so
+lib/libmmosal.so
+
+# Chromatix
+lib/libchromatix_imx074_default_video.so
+lib/libchromatix_mt9p017_preview.so
+
+# Misc libraries
+lib/libmm-color-convertor.so
+
+# Bluetooth
+bin/BCM4330B14.hcd
+
+# Thermal
+lib/libthermal_mitigation.so
+lib/libthermal_mitigation_fusion.so
+
+# Radio
+lib/libril-qc-qmi-1.so
+lib/libril-qcril-hook-oem.so
+lib/libril.so
+lib/libdiag.so
+lib/libdsi_netctrl.so
+lib/libdsm.so
+lib/libdsutils.so
+lib/libidl.so
+lib/libnetmgr.so
+lib/libnv.so
+lib/liboncrpc.so
+lib/libqc-opt.so
+lib/libqdi.so
+lib/libqdp.so
+lib/libqmi.so
+lib/libqmiservices.so
+lib/libqueue.so
+lib/libtime_genoff.so
+lib/libtime_remote_atom.so
+
+# Sensors
+lib/hw/sensors.msm8660.so
+
+# Lights
+lib/hw/lights.msm8660.so
+
+# NFC
+lib/hw/nfc.default.so
