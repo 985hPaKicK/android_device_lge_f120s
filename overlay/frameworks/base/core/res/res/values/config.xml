@@ -108,6 +108,86 @@
         <item>5</item>
     </integer-array>
 
+    <integer-array name="config_autoBrightnessLevels">
+        <item>16</item>
+        <item>33</item>
+        <item>51</item>
+        <item>85</item>
+        <item>121</item>
+        <item>185</item>
+        <item>221</item>
+        <item>321</item>
+        <item>421</item>
+        <item>471</item>
+        <item>551</item>
+        <item>661</item>
+        <item>851</item>
+        <item>1301</item>
+        <item>2001</item>
+        <item>3501</item>
+        <item>6501</item>
+    </integer-array>
+    <integer-array name="config_autoBrightnessLcdBacklightValues">
+        <item>50</item>
+        <item>84</item>
+        <item>92</item>
+        <item>104</item>
+        <item>118</item>
+        <item>130</item>
+        <item>140</item>
+        <item>156</item>
+        <item>164</item>
+        <item>168</item>
+        <item>170</item>
+        <item>184</item>
+        <item>190</item>
+        <item>194</item>
+        <item>218</item>
+        <item>230</item>
+        <item>236</item>
+        <item>255</item>
+    </integer-array>
+    <integer-array name="config_autoBrightnessButtonBacklightValues">
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>255</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+    <integer-array name="config_autoBrightnessKeyboardBacklightValues">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
     <!-- Workaround for devices with broken keyboards -->
     <bool name="config_forceDisableHardwareKeyboard">true</bool>
 </resources>
